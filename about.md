@@ -25,10 +25,10 @@ As well as finding my (somewhat irregular) blog posts, you can also find links t
 
 As it says above, I'm currently an Electrical and Electronic Engineering student at the University of Sheffield in the 3rd Year of my degree. I am on an integrated masters program (MEng), so I have one more year to go before I graduate. As well as this, I'm involved in a few other things:
 
-- I'm currently a member of the Sheffield Engineering Leadership Academy (SELA) at the University of Sheffield. This is a program for undergraduate engineers aimed at developing leadership and other soft skills. You can find more about SELA here: https://sela-sheffield.org/
-- I am fortunate to have received an Engineering Leadership Scholarship from the Royal Academy of Engineers, you can find more about that here: https://www.raeng.org.uk/grants-prizes/grants/schemes-for-students/engineering-leaders-scholarship
-- I am currently a representative for the IForge at the University of Sheffield, the UK's first Student led Makerspace! More information here: https://iforgesheffield.org/
-- I am also a member of the Siemens Digital Academy. This program aims to educate undergraduate engineers on new digital technologies, ready for when they enter industry. More information here: https://new.siemens.com/uk/en/company/jobs/life-at-siemens/digitalacademy.html
+- I'm currently a member of the Sheffield Engineering Leadership Academy (SELA) at the University of Sheffield. This is a program for undergraduate engineers aimed at developing leadership and other soft skills. You can find more about SELA here: <https://sela-sheffield.org/>
+- I am fortunate to have received an Engineering Leadership Scholarship from the Royal Academy of Engineers, you can find more about that here: <https://www.raeng.org.uk/grants-prizes/grants/schemes-for-students/engineering-leaders-scholarship>
+- I am currently a representative for the IForge at the University of Sheffield, the UK's first Student led Makerspace! More information here: <https://iforgesheffield.org/>
+- I am also a member of the Siemens Digital Academy. This program aims to educate undergraduate engineers on new digital technologies, ready for when they enter industry. More information here: <https://new.siemens.com/uk/en/company/jobs/life-at-siemens/digitalacademy.html>
 
 If you'd like to know more specific information about my professional experience and qualifications, please do visit my LinkedIn. The icon at the bottom of the page will take you there!
 
