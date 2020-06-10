@@ -1,0 +1,19 @@
+---
+layout: page
+title: Reports
+---
+
+{% for entry in site.data.reports %}
+	<h1>
+		{{ entry.title }}
+		
+	</h1>
+	<br/>
+	
+	{% for subcatagory in entry.subcategories %}
+			<a href="{{ subcatagory.href}}">
+				{{ subcatagory.title }}
+			</a>
+			<br/>
+	{% endfor %}
+{% endfor %}

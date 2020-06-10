@@ -1,0 +1,9 @@
+- title: "First Year"
+  subcategories:
+  - title: "Passive Networks"
+    href: "/assets/reports/Passive_Networks_Report.pdf"
+
+- title: "Second Year"
+  subcategories:
+  - title: "Switch Mode Power Supply Design Project"
+    href: "/assets/reports/SMPS_Design_Project.pdf"
