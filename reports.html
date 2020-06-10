@@ -8,16 +8,16 @@ title: Reports
 	time I had to complete them they will be of varying quality; I hope you find them useful and informative. If you have any questions please get in touch!
 </p>
 
-{% for entry in site.data.reports %}
-	<h3>
-		{{ entry.title }}
-		
-	</h3>
+{% for section in site.data.reports %}
+	<h2> {{ section.title }} </h2>
 	
-	<ul>
-		{% for subcatagory in entry.subcategories %}
-			<li> <a href="{{ subcatagory.href}}"> {{ subcatagory.title }} - {{ subcatagory.date }} </a> </li>
-			<br/>
-		{% endfor %}
-	</ul>
+	{% for entry in section.subsections %}
+		<h3> {{ entry.title }} </h3>
+		
+		<ul>
+			{% for subcatagory in entry.subcategories %}
+				<li> <a href="{{ subcatagory.href}}"> {{ subcatagory.title }} - {{ subcatagory.date }} </a> </li>
+			{% endfor %}
+		</ul>
+	{% endfor %}
 {% endfor %}

@@ -1,11 +1,17 @@
-- title: "First Year"
-  subcategories:
-  - title: "Passive Networks"
-    date: "07/12/2017"
-    href: "/assets/reports/Passive_Networks_Report.pdf"
+- title: "University"
+  subsections:
+    - title: "First Year"
+      subcategories:
+        - title: "Passive Networks"
+          date: "07/12/2017"
+          href: "/assets/reports/Passive_Networks_Report.pdf"
 
-- title: "Second Year"
-  subcategories:
-  - title: "Switch Mode Power Supply Design Project"
-    date: "10/05/2019"
-    href: "/assets/reports/SMPS_Design_Project.pdf"
+    - title: "Second Year"
+      subcategories:
+        - title: "Switch Mode Power Supply Design Project"
+          date: "10/05/2019"
+          href: "/assets/reports/SMPS_Design_Project.pdf"
+
+- title: "Personal Projects"
+  subsections:
+    - title: "Electronics"

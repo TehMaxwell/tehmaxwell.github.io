@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: $white;
   }
 }
 
@@ -57,6 +57,8 @@ h2 {
 
 h3 {
   font-size: 20px;
+  font-style: italic;
+  color: $white;
 }
 
 h4 {
@@ -83,23 +85,32 @@ a {
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
+  color: $white;
 }
 
 ul {
   list-style-type: disc;
   text-align: left;
+  color: $white;
 }
 
 ol {
   list-style-type: decimal;
+  color: $white;
 }
 
 ol ul, ul ol, ul ul, ol ol {
   margin: 0;
+  color: $white;
 }
 
 ul ul, ol ul {
   list-style-type: circle;
+  color: $white;
+}
+
+li {
+  color: $white;
 }
 
 em, i {
@@ -121,7 +132,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $lightGray;
+  color: $white;
 }
 
 // Specify the color of the selection
@@ -229,14 +240,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $lightGray;
+    color: $white;
     text-align: justify;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $lightGray;
+      color: $white;
     }
   }
 }
