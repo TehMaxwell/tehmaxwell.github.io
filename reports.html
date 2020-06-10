@@ -3,17 +3,21 @@ layout: page
 title: Reports
 ---
 
+<p>
+	This page contains a list of links to examples of my work. Some of the reports are from University Work, some are from Personal Projects. Depending upon how much
+	time I had to complete them they will be of varying quality; I hope you find them useful and informative. If you have any questions please get in touch!
+</p>
+
 {% for entry in site.data.reports %}
-	<h1>
+	<h3>
 		{{ entry.title }}
 		
-	</h1>
-	<br/>
+	</h3>
 	
-	{% for subcatagory in entry.subcategories %}
-			<a href="{{ subcatagory.href}}">
-				{{ subcatagory.title }}
-			</a>
+	<ul>
+		{% for subcatagory in entry.subcategories %}
+			<li> <a href="{{ subcatagory.href}}"> {{ subcatagory.title }} - {{ subcatagory.date }} </a> </li>
 			<br/>
-	{% endfor %}
+		{% endfor %}
+	</ul>
 {% endfor %}
