@@ -2,15 +2,59 @@
   subsections:
     - title: "First Year"
       subcategories:
-        - title: "Passive Networks"
+        - title: "Black Box Experiment Report"
+          date: "11/11/2017"
+          href: "/assets/reports/Black_Box_Experiment_Report.pdf"
+        
+        - title: "Digital Logic Circuits Lab Report"
+          date: "21/11/2017"
+          href: "/assets/reports/Digital_Logic_Circuits_Report.pdf"
+          
+        - title: "Passive Networks Lab Report"
           date: "07/12/2017"
           href: "/assets/reports/Passive_Networks_Report.pdf"
+          
+        - title: "Light Emitting Diode Lab Report"
+          date: "20/02/2018"
+          href: "/assets/reports/LED_Lab_Report.pdf"
+          
+        - title: "Bipolar Junction Transistor Lab Report"
+          date: "22/02/2018"
+          href: "/assets/reports/BJT_Lab_Report.pdf"
+          
+        - title: "Mechanical Boiler Timer Tear Down Report"
+          date: "16/03/2018"
+          href: "/assets/reports/Mechanical_Boiler_Timer_Tear_Down_Report.pdf"
+          
+        - title: "Individual Construction Project Report"
+          date: "09/05/2018"
+          href: "/assets/reports/Individual_Construction_Project_Report.pdf"
+          
+        - title: "Component Tolerence Assignment"
+          date: "14/05/2018"
+          href: "/assets/reports/Component_Tolerance_Assignment.pdf"
 
     - title: "Second Year"
       subcategories:
+        - title: "Schottky Diode Lab Report"
+          date: "11/11/2018"
+          href: "/assets/reports/Schottky_Diode_Laboratory_Report.pdf"
+          
+        - title: "Electrical Energy Management: Assignment 1"
+          date: "07/12/2018"
+          href: "/assets/reports/Electrical_Energy_Management_-_Assignment_1.pdf"
+          
+        - title: "Project Management Titanic Case Study"
+          date: "02/04/2019"
+          href: "/assets/reports/Project_Management_Titanic_Case_Study_Assessment.pdf"
+      
         - title: "Switch Mode Power Supply Design Project"
           date: "10/05/2019"
           href: "/assets/reports/SMPS_Design_Project.pdf"
+          
+        - title: "Electrical Energy Management: Assignment 2"
+          date: "10/05/2019"
+          href: "/assets/reports/Electrical_Energy_Management_-_Assignment_2.pdf"
 
 - title: "Personal Projects"
   subsections:
