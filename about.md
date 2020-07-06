@@ -19,7 +19,8 @@ This blog is all about my haphazard and somewhat sporadic journey through the wo
 
 ### What else is here?
 
-As well as finding my (somewhat irregular) blog posts, you can also find links to different projects, documents and software I have created throughout my journey. If it's posted on here you are free to download it and use it as you please!
+As well as finding my (somewhat irregular) blog posts, you can also find links to different projects, documents and software I have created throughout my journey.
+These items can be found in the reports section of the website, you can navigate to this at the top of the page. If it's posted on here you are free to download it and use it as you please!
 
 ### Who are you?
 
