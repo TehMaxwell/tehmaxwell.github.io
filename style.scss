@@ -123,7 +123,30 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  
+}
+
+.profilepic {
+	max-width: 100%;
+}
+
+.thumbnail {
+	object-fit: contain;
+	height: 200px;
+	left: 0;
+	right: 0;
+	max-width: 100%;
+}
+
+.container-inner {
+	position: relative;
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
+	align: center;
+}
+
+.container {
+	max-width: 105vh;
 }
 
 // Fixes images in popup boxes from Google Translate
