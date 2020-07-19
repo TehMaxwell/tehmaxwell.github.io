@@ -75,8 +75,6 @@ The upside to this is that you get way more out of University than you put in. I
 - I'm a representative for the IForge, the first student led Makerspace in the UK. This gives me access to a range of tools (laser cutters, 3D Printers, milling machines, etc.) 24/7 and means I'm involved in a fantastic community of makers!
 - I've built an Infrared Receiver, Switched Mode Power Supply, Amplifier and Lock in Amplifier (as well as a range of other projects) through my course and learnt about loads more. My course also connected me with a very close group of friends that I'll know well after University has finished.
 
-<br/>
-
 ![A second year Switched Mode Power Supply project.](/assets\images/2020-6-13-smps.jpg)
 *A second year Switched Mode Power Supply project.*
 
@@ -86,11 +84,11 @@ This is not to say that it's all gone perfectly. There has been rushed nights of
 
 <br/>
 
-**Will I be able to make a new group of friends okay?** => Yes absolutely. One of the great things about University is that there are so many groups of people all following their interests. You will absolutely find like minded people and make friends, some of whom you will know for a long time.
+**Will I be able to make a new group of friends okay?** => Yes absolutely. One of the great things about University is that there are so many groups of people all following their interests. You will absolutely find like minded people and make friends, some of whom you will know for a long time. Join clubs and societies, try new things. The group of people right for you will come from that.
 
 <br/>
 
-**Will I cope okay with the course?** => Yes absolutely, as long as your willing to put the time in. With University, you get out what you put in. If you apply yourself and engage with the content, you'll do brilliantly. This is not exclusive to University as well!
+**Will I cope okay with the course?** => Yes absolutely, as long as your willing to put the time in. With University, you get out what you put in. If you apply yourself and engage with the content, you'll do brilliantly. This is not exclusive to University as well! Ask questions, be inquisitive and you will learn way more than just the course content. Universities are a collection of people who are all very passionate about their subject, use that to your advantage and learn from them!
 
 <br/>
 
@@ -100,6 +98,32 @@ This is not to say that it's all gone perfectly. There has been rushed nights of
 
 Ultimately; my message to prospective first year students would be, don't worry. You have to remember that everyone is feeling and thinking in the same way as you. Everyone is trying to find new friends, everyone is trying to find their feet. It will be okay. There will be times where things will get busy and difficult, but true progress only comes from challenging yourself. University provides a brilliant platform to do that and gives you a group of people that will join you in that journey.
 
+If you are a person thinking about University reading this or you'd just like to know more about my experiences, please feel free to drop me a message. I'll try to help how I can.
+
 #### Summer Placements
 
-Finally, the last point in this triple whammy of reflection, summer placements. I'll say right from the start, I think summer placements are a fantastic opportunity and something that prospective engineering students should try to take advantage of right from their first year of University (at some point in the future I'll write a post about my experience with securing Summer placements). As I said previously, there is no substitute for experience and despite their short duration summer placements will definitely give you that.
+Finally, the last point in this triple whammy of reflection, summer placements. I'll say right from the start, I think summer placements are a fantastic opportunity and something that prospective engineering students should try to take advantage of right from their first year of University (at some point in the future I'll write a post about my experience with securing Summer placements). As I said previously, there is no substitute for experience, despite their short duration summer placements will definitely give you that.
+
+<br/>
+
+Over the last three years (again, feels very weird to be typing that) I've completed three Summer Placements. One back at Analox in the Production Engineering Team and two at Siemens Congleton in the Digital Enterprise department (I'm actually currently on the second one). At Analox I worked on streamlining product production times by improving production processes, this included exploration of areas suitable for automation and introduction of a new jigging system. At Siemens, I work on developing implementations of new digital technologies such as IOT on the production floor. Primarily this involves working with Siemens IIoT platform, Mindsphere.
+
+<br/>
+
+![The jig I developed as part of the Production Engineering team at Analox.](/assets\images/2020-6-13-jig.jpg)
+*The jig I developed as part of the Production Engineering team at Analox.*
+
+<br/>
+
+All of the tips for Year in Industry placements I mentioned earlier also apply for Summer placements, except that the timescale is accelerated. This means you have way less time to absorb information and develop meaningful experience. Being inquisitive is what makes the difference here. You won't have time to do everything and experience everything yourself, so the next best thing is to learn through the experience of others. You will be surrounded by teams of very experienced people who are skilled in their field, absorbing even a fraction of their knowledge will give you a real advantage going forward.
+
+<br/>
+
+**Ask people questions.** My experience is that people are always more than happy to answer or help you out. Ask people what they are working on, what problems they are facing and what they plan to do to solve those problems. Where you can, try and offer some of your own experience. People in Engineering companies are always working on interesting things, even if it's not directly related to what your doing at the time, that knowledge could be very useful later on in your life. Summer placments are a great time to work out what you don't know. Try to be like a sponge, absorbing all knowledge that comes into your path. Most importantly, remember this:
+
+<br/>**Lesson 5: Being an intern doesn't mean you don't have valuable experience to offer. Summer placements are always a two way street and companies can stand to learn just as much from you as you can from them. If you share your knowledge, you are more likely to receive guidance and help in return.**
+
+<br/>
+
+As an additional note, one thing I have noticed over my years at University is that people tend to focus on applying to larger companies when trying to secure placements. Whilst working for larger companies will give you access to big projects and large teams of people to learn from, don't discount the value of a smaller company as well. Smaller companies have less resource to complete their tasks and this tends to result in you experiencing a much wider range of processes within a business. Especially early on, this is very valuable.
+
