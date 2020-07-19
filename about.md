@@ -22,6 +22,11 @@ This blog is all about my haphazard and somewhat sporadic journey through the wo
 As well as finding my (somewhat irregular) blog posts, you can also find links to different projects, documents and software I have created throughout my journey.
 These items can be found in the reports section of the website, you can navigate to this at the top of the page. If it's posted on here you are free to download it and use it as you please!
 
+<br/>
+
+Additionally, I like taking the occasional photo when I get the chance. You can find some of my pictures in the Media section of the website, again at the top of the page. You are welcome to download and
+use these images, but please leave a link to this website.
+
 ### Who are you?
 
 As it says above, I'm currently an Electrical and Electronic Engineering student at the University of Sheffield in the 3rd Year of my degree. I am on an integrated masters program (MEng), so I have one more year to go before I graduate. As well as this, I'm involved in a few other things:
