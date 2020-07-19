@@ -14,9 +14,9 @@
 				<li>
 					<div class="container">    
 					<div  class="container-inner">
-					<a href="{{ file.path }}" title="{{ filename }}">
-						<img src="{{ site.baseurl | replace: 'http://','' | replace: 'https://','' }}{{ page.permalink }}/{{filename}}{{file.extname}}" alt="{{ filename }}" title="{{ filename }}" class="thumbnail" />
-						<span>{{ filename }}</span>
+					<a href="{{ file.path }}" title="{{ filename | replace: '_',' ' }}">
+						<img src="{{ site.baseurl | replace: 'http://','' | replace: 'https://','' }}{{ page.permalink }}/{{filename}}{{file.extname}}" alt="{{ filename | replace: '_',' ' }}" title="{{ filename | replace: '_',' ' }}" class="thumbnail" />
+						<span>{{ filename | replace: '_',' ' }}</span>
 					</a>
 					</div>
 					</div>
