@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Some catching up to do... (13/06/2020)
+title: Some catching up to do... (20/07/2020)
 ---
 
-I apologise, it's been a long time. A very, very long time. I last posted on the 11/04/2016, that's over four years ago! Thinking that makes me shudder slightly. In my defense, I've not been twiddling my thumbs this whole time. I've been involved in lots of brilliant things over the last few years and I can say confidently that I have spent the time well. Lets do a quick movie style montage to get you up to speed.  
+I apologise, it's been a long time. A very, very long time. I last posted on the 11/04/2016, that's over four years ago! Thinking that makes me shudder slightly. In my defense, I've not been twiddling my thumbs this whole time. I've been involved in lots of brilliant things over the last few years and I can say confidently that I have spent the time well. Lets do a quick (okay not so quick) movie style montage to get you up to speed.
 
 <br/>
 
@@ -15,9 +15,9 @@ I posted about the Digital Diary when I was about 5 months into my Year in Indus
 
 <br/>
 
-First of all, I started in a car share. I say "car share", I was just hitching a lift with some colleagues at Analox! Although I had my license by that point, I didn't have a car to contribute to the arrangement. The car share was fantastic because it gave me an insight into what life as an engineer was really like. I got to hear about the challenges my colleagues had faced over the years, lessons they had learned and lots of advice. Despite the fact I wasn't actually in the office during the journey, it was extremely valuable time. Thus:
+First of all, I started in a car share. I say "car share", I was just hitching a lift with some colleagues at Analox! Although I had my license by that point, I didn't have a car to contribute to the arrangement. The car share was fantastic because it gave me an insight into what life as an engineer was really like. I got to hear about the challenges my colleagues had faced over the years, lessons they had learned and lots of advice they wanted to pass on. Despite the fact I wasn't actually in the office during the journey, it was extremely valuable time. Thus:
 
-<br/>**Lesson 1: There is a great deal to be learn't from things that are not directly linked to a job or internship.**
+<br/>**Lesson 1: There is a great deal to be learnt from things that are not directly linked to a job or internship.**
 
 <br/>
 
@@ -55,7 +55,7 @@ The year I spent at Analox whipped by, before I new it I had spun through a summ
 
 <br/>
 
-After tossing around a few degree choices in my head (all in the engineering sector), I decided on Electrical and Electronic Engineering. For those not so involved in the STEM sector, Electrical and Electronic Engineering covers areas related to the specification, design, manufacture and testing of electrical circuits. This covers a wide range of things, from the next IPhone to the control circuitry for a scanning electron microscope. Every time you send an email, use your microwave or drive your car you are using the work of an Electrical and Electronic Engineer. Needless to say I was excited about starting the course and delving into the complex, vast world that engineers inhabit. Was a worried? Yes absolutely, the content sounded complex and challenging (and I wasn't that excited about doing maths again either).
+After tossing around a few degree choices in my head (all in the engineering sector), I decided on Electrical and Electronic Engineering. For those not so involved in the STEM sector, Electrical and Electronic Engineering covers areas related to the specification, design, manufacture and testing of electrical circuits. This covers a wide range of things, from the next IPhone to the control circuitry for a scanning electron microscope. Every time you send an email, use your microwave or drive your car you are using the work of an Electrical and Electronic Engineer. Needless to say I was excited about starting the course and delving into the complex, vast world that engineers inhabit. Was I worried? Yes absolutely, the content sounded complex and challenging (and I wasn't that excited about doing maths again either).
 
 <br/>
 
@@ -68,8 +68,8 @@ My experience now tells me nerves are a good thing in most cases, they usually m
 The upside to this is that you get way more out of University than you put in. If you are willing to put in the effort and get involved with the University community you will meet some fantastic people and have a brilliant time. To date, here are some of the highlights of my University experience:
 
 - I've been a member of Avalon ROV, a student team working to build an underwater robot to compete in the MATE ROV competition, for two years. This included a trip to UK Maker Faire.
-- I was President of the EEE Society during my second year. During this time I organised a range of events including socials, factory visits and an end of year ball.
-- I've been a member of the Sheffield Engineering Leadership Academy (SELA) for the last two years. This has given me access to top class workshops and teaching in Professional Skills all for free as well as a group of friends I'll know for a long long time!
+- I was President of the EEE Society during my second year. During this time I organised a range of events including socials, factory visits and an End of Year Ball.
+- I've been a member of the Sheffield Engineering Leadership Academy (SELA) for the last two years. This has given me access to top class workshops and teaching in Professional Skills all for free; as well as a group of friends I'll know for a long long time!
 - I've tried Archery and Fencing, as well as being involved in weekly Gaming socials.
 - I've been to several live music events, comedy performances and other shows. I've also taken trips to other UK cities with friends.
 - I'm a representative for the IForge, the first student led Makerspace in the UK. This gives me access to a range of tools (laser cutters, 3D Printers, milling machines, etc.) 24/7 and means I'm involved in a fantastic community of makers!
@@ -80,7 +80,7 @@ The upside to this is that you get way more out of University than you put in. I
 
 <br/>
 
-This is not to say that it's all gone perfectly. There has been rushed nights of report writing and presentation polishing, periods of stress where code JUST WOULDN'T COMPILE! University is great because it teaches you to be autonomous, think on your feet and carry yourself. It won't all go perfectly and there will be moments where you wonder whether your doing the right thing. 9 times out of 10 though, those are the moments where you learn the most. As they say, if it's worth doing it's not easy. So, based upon all of this, what are the answers to those previous questions:
+This is not to say that it's all gone perfectly. There has been rushed nights of report writing and presentation polishing, periods of stress where code JUST WOULDN'T COMPILE! University is great because it teaches you to be autonomous, think on your feet and carry yourself. It won't all go perfectly and there will be moments where you wonder whether your doing the right thing. 9 times out of 10 though, those are the moments where you learn the most. As they say, if it's worth doing it's not easy. So, based upon all of this, what are the answers to those previous questions?
 
 <br/>
 
@@ -92,7 +92,7 @@ This is not to say that it's all gone perfectly. There has been rushed nights of
 
 <br/>
 
-**What’s it going to be like living in a big city?** => That more comes down to personal preference, but it's certainly not something to be intimidated by. The brilliant thing about cities is that there are always loads of things to experience and get involved in. You will always be able to find a group of people with similar interests. Ultimately, living in a city cannot be described as boring. However, if can be difficult to find areas of quiet and get away from the busy schedule of every day life. This means it can be harder to find time to rest and recuperate. This is where Sheffield is particularly great as the Peak District is only a short train journey or bus ride away!
+**What’s it going to be like living in a big city?** => That more comes down to personal preference, but it's certainly not something to be intimidated by. The brilliant thing about cities is that there are always loads of things to experience and get involved in. You will always be able to find a group of people with similar interests. Ultimately, living in a city cannot be described as boring. However, it can be difficult to find areas of quiet and get away from the busy schedule of every day life. This means it can be harder to find time to rest and recuperate. This is where Sheffield is particularly great as the Peak District is only a short train journey or bus ride away!
 
 <br/>
 
@@ -102,28 +102,43 @@ If you are a person thinking about University reading this or you'd just like to
 
 #### Summer Placements
 
-Finally, the last point in this triple whammy of reflection, summer placements. I'll say right from the start, I think summer placements are a fantastic opportunity and something that prospective engineering students should try to take advantage of right from their first year of University (at some point in the future I'll write a post about my experience with securing Summer placements). As I said previously, there is no substitute for experience, despite their short duration summer placements will definitely give you that.
+Finally, the last point in this triple whammy of reflection, summer placements. I'll say right from the start, I think summer placements are a fantastic opportunity and something that prospective engineering students should try to take advantage of right from their first year of University (at some point in the future I'll write a post about my experience with securing Summer placements). As I said previously, there is no substitute for experience. Despite their short duration, summer placements will give you plenty of it.
 
 <br/>
 
-Over the last three years (again, feels very weird to be typing that) I've completed three Summer Placements. One back at Analox in the Production Engineering Team and two at Siemens Congleton in the Digital Enterprise department (I'm actually currently on the second one). At Analox I worked on streamlining product production times by improving production processes, this included exploration of areas suitable for automation and introduction of a new jigging system. At Siemens, I work on developing implementations of new digital technologies such as IOT on the production floor. Primarily this involves working with Siemens IIoT platform, Mindsphere.
+Over the last three years (again, feels very weird to be typing that) I've completed three Summer Placements. One back at Analox in the Production Engineering Team and two at Siemens Congleton in the Digital Enterprise department (I'm actually currently on the second one). At Analox I worked on streamlining production times by improving manufacturing processes, this included exploration of areas suitable for automation and introduction of a new jigging system. At Siemens, I work on developing implementations of new digital technologies (such as IOT) on the production floor. Primarily this involves working with Siemens' IIoT platform, Mindsphere.
 
 <br/>
 
-![The jig I developed as part of the Production Engineering team at Analox.](/assets\images/2020-6-13-jig.jpg)
+![The jig I developed as part of the Production Engineering team at Analox.](/assets\images/2020-06-13-jig.jpg)
 *The jig I developed as part of the Production Engineering team at Analox.*
 
 <br/>
 
-All of the tips for Year in Industry placements I mentioned earlier also apply for Summer placements, except that the timescale is accelerated. This means you have way less time to absorb information and develop meaningful experience. Being inquisitive is what makes the difference here. You won't have time to do everything and experience everything yourself, so the next best thing is to learn through the experience of others. You will be surrounded by teams of very experienced people who are skilled in their field, absorbing even a fraction of their knowledge will give you a real advantage going forward.
+All of the tips for Year in Industry placements I mentioned earlier also apply to Summer placements, except that the timescale is accelerated. This means you have way less time to absorb information and develop meaningful experience. Being inquisitive is what makes the difference here. You won't have time to do everything and experience everything yourself, so the next best thing is to learn through the experience of others. You will be surrounded by teams of very experienced people who are skilled in their field, absorbing even a fraction of their knowledge will give you a real advantage going forward.
 
 <br/>
 
-**Ask people questions.** My experience is that people are always more than happy to answer or help you out. Ask people what they are working on, what problems they are facing and what they plan to do to solve those problems. Where you can, try and offer some of your own experience. People in Engineering companies are always working on interesting things, even if it's not directly related to what your doing at the time, that knowledge could be very useful later on in your life. Summer placments are a great time to work out what you don't know. Try to be like a sponge, absorbing all knowledge that comes into your path. Most importantly, remember this:
+**Ask people questions.** My experience is that people are always more than happy to answer or help you out. Ask people what they are working on, what problems they are facing and what they plan to do to solve those problems. Where you can, try and offer some of your own experience. People in Engineering companies are always working on interesting things; even if it's not directly related to what your doing at the time, that knowledge could be very useful later on in your life. Summer placements are a great time to work out what you don't know. Try to be like a sponge, absorbing all knowledge that comes into your path. Most importantly, remember this:
 
-<br/>**Lesson 5: Being an intern doesn't mean you don't have valuable experience to offer. Summer placements are always a two way street and companies can stand to learn just as much from you as you can from them. If you share your knowledge, you are more likely to receive guidance and help in return.**
+<br/>**Lesson 5: Being an intern doesn't mean you don't have valuable experience to offer. Summer placements are always a two way street. Companies stand to learn just as much from you as you can from them. If you share your knowledge, you are more likely to receive guidance and help in return.**
 
 <br/>
 
 As an additional note, one thing I have noticed over my years at University is that people tend to focus on applying to larger companies when trying to secure placements. Whilst working for larger companies will give you access to big projects and large teams of people to learn from, don't discount the value of a smaller company as well. Smaller companies have less resource to complete their tasks and this tends to result in you experiencing a much wider range of processes within a business. Especially early on, this is very valuable.
 
+#### Rounding Up
+
+So, as you can probably tell, the last four years have been quite the journey. I've had the opportunity to visit and work at some amazing engineering sites; I've made loads of progress through my University course and extra-curricular activities. Most importantly, I've met some fantastic people. Ultimately, I know I can look back and feel proud of what I have achieved over the last four years. So what would my overarching piece of advice be after this time?
+
+<br/>
+
+**Be enthusiastic and inquisitive. Most importantly of all, follow what interests you. If you have a passion for something, you will be naturally drawn to things that will help you improve. Other people can sense your interest as well, if it aligns with theirs they will really want to help you succeed. Ultimately, things come a lot easier if you enjoy what your doing. If you haven't found what really drives you, keep searching.**
+
+<br/>
+
+Phew, that took a long time didn't it. I apologise for the length of that post, next time I'll try and keep it more concise. At least now you're all caught up! I hope you're all doing okay in the (semi)lockdown and managing to stay safe, if you have any questions please don't hesitate to get in touch. See you next time!
+
+<br/>
+
+![3rd Year Project.](/assets\images/2020-06-13-3rd-Year-Project.jpg)
