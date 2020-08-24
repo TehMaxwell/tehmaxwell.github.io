@@ -55,6 +55,28 @@
         - title: "Electrical Energy Management: Assignment 2"
           date: "10/05/2019"
           href: "/assets/reports/Electrical_Energy_Management_-_Assignment_2.pdf"
+          
+#    - title: "Third Year"
+#      subcategories:
+#        - title: "3rd Year Project - Project Initialisation Document"
+#          date: "22/10/2019"
+#          href: "/assets/reports/3rd Year Project - PID.pdf"
+#          
+#        - title: "3rd Year Project - Interim Report"
+#          date: "02/02/2020"
+#          href: "/assets/reports/3rd Year Project - Interim Report.pdf"
+#          
+#        - title: "3rd Year Project - 2nd Marker Viva"
+#          date: "02/02/2020"
+#          href: "/assets/reports/3rd Year Project - 2nd Marker Viva.pdf"
+#          
+#        - title: "3rd Year Project - Public Engagement Video"
+#          date: "02/02/2020"
+#          href: "/assets/reports/3rd Year Project - Public Engagement Video.mp4"
+#          
+#        - title: "3rd Year Project - IEEE Report"
+#          date: "21/04/2020"
+#          href: "/assets/reports/3rd Year Project - IEEE Report.pdf"
 
 - title: "Personal Projects"
   subsections:
